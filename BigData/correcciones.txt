@@ -1,0 +1,4 @@
+Correcciones de Modulo1 BigData:
+
+-Se adjuntan imagenes de las capturas de tableu.
+-En al archivo de python se realizan mas comentarios y mejor descripcion y justificación de los pasos a seguir para poder hacer la prediccion y entrenar el modelo.

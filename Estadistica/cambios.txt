@@ -1,0 +1,9 @@
+Estadistica Modificaciones:
+
+Entregable 2:
+
+ -Se decidio hacer una correccion en cuanto al modelo usado, en vez de realizar 2 modelos, se decidio realizar el de Sarimax, debido a las pruebas realizadas y el 
+  replanteamiento del problema, es decir se realizo un modelo SARIMAX con un valor de D = 1.
+- Se interpretaron de mejor manera y mas especifica la interpretacion de los coeficientes y resultados despues de haber calibrado el modelo.
+- Se realizo el cambio de lagunas librerias usadas.
+- Y se obtuvo nuevas predicciones (forecast) con el nuevo modelo implementado.
